@@ -1,12 +1,8 @@
 # AI and Automation
 
-**Status:** Changed
-
-**Issue:** "Prioritization" isn't a separate bucket; it's the result of weighing value against feasibility.
-
 ## Framework
 
 1. **Value:** Where AI would save time, cut cost, or improve experience, and by how much.
-2. **Feasibility:** Whether the right tool, data, and technical capability exist to build it.
-3. **Risk:** What could go wrong with accuracy, compliance, or customer trust.
-4. **Adoption:** Whether people will actually change how they work to use it.
+2. **Cost:** What it takes to build the solution and keep it running.
+3. **Feasibility:** Whether it can work reliably and legally, given the data, tools, and regulations.
+4. **Adoption:** Whether employees and customers will trust it and change how they work to use it.

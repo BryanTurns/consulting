@@ -1,9 +1,5 @@
 # Market Sizing / ROI
 
-**Status:** Changed and split
-
-**Issue:** "Payback" is a conclusion, not a bucket, and market sizing and ROI are really two different questions.
-
 ## Market Sizing
 
 1. **Volume:** How many units, users, or transactions exist.

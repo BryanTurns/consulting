@@ -1,7 +1,5 @@
 # Profitability / Cost
 
-**Status:** No change
-
 ## Framework
 
 1. **Revenue:** Everything coming in, driven by price and volume.

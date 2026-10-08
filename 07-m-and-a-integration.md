@@ -1,12 +1,7 @@
 # M&A / Integration
 
-**Status:** Changed
-
-**Issue:** "Strategic fit" overlapped with synergies, and "Costs and risks" overlapped with the integration plan.
-
 ## Framework
 
-1. **Target standalone value:** What the target is worth on its own.
-2. **Synergies:** What extra value the combination creates.
-3. **Deal cost:** What the client pays, including purchase price and integration cost.
-4. **Integration plan:** How the organizations and systems come together to capture the synergies.
+1. **Benefits:** What the target is worth on its own, plus the synergies the combination creates.
+2. **Integration plan:** How and when the organizations and systems come together to capture those synergies.
+3. **Costs:** What the client pays, including the purchase price and the direct and indirect costs of the integration plan.
